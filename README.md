@@ -11,7 +11,7 @@
   
 # 💫About Me : 
 
-  I'm a **Software Development Graduate** passionate about building innovative and creative solutions.
+  I'm a **Software Development** passionate about building innovative and creative solutions.
 
 -💼 **Experience:** currently working as a Programmer Analyst at a consulting firm, implementing and customizing **ERP systems**.
 
